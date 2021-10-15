@@ -3,3 +3,6 @@
 $basedata=[];//--alientaker
 $basedata['username']='root';//--chenyl
 $basedata['password']='root';//--alientaker
+$basedata['port']=3306;//--alientaker
+
+
