@@ -1,3 +1,4 @@
 <?php
 //首页 --chenyl
-$database=[];//chenyl
+$basedata=[];//--alientaker
+$basedata['username']='root';//--chenyl
