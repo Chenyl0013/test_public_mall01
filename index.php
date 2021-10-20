@@ -8,6 +8,6 @@ $basedata['port']=3306;//--alientaker
 
 //以下为06627修改
 
-print_r(phpinfo());
+//print_r(phpinfo()); //alientaker
 
 
